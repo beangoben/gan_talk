@@ -1,18 +1,16 @@
 # gan_talk
 
 
-##Tutotrials:
+##Tutorials/Links:
 
 * http://soumith.ch/eyescream/
 * http://cs.stanford.edu/people/karpathy/gan/
 * http://evjang.com/articles/genadv1
 * http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
-
-## Links:
-
 * http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/
 * https://www.quora.com/What-are-the-pros-and-cons-of-using-generative-adversarial-networks-a-type-of-neural-network
 * https://swarbrickjones.wordpress.com/2016/01/13/enhancing-images-using-deep-convolutional-generative-adversarial-networks-dcgans/
+* https://research.facebook.com/publications/unsupervised-representation-learning-with-deep-convolutional-generative-adversarial-networks/
 
 ##Applications:
 
